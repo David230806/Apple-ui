@@ -1,0 +1,14 @@
+
+
+.item img{
+    width: 600px;
+    height: 400px;
+}
+
+.item:nth-child(7){
+    display: none;
+}
+
+.item{
+    margin-bottom: 200px;
+}

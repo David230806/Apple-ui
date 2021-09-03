@@ -1,0 +1,21 @@
+.footer-links{
+    display: flex;
+    margin-left: 19%;
+    
+}
+
+.footer-links .item-links{
+    margin-right: 80px;
+    margin-bottom: 20px;
+    color: rgb(37, 37, 37);
+}
+
+.footer-links .item-links a{
+    color: gray;
+    margin-bottom: 10px;
+    line-height: 20px;
+}
+
+.item-links b{
+    margin-top: 20px;
+}

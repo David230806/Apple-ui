@@ -1,0 +1,29 @@
+.Item{
+    width: 900px;
+    height: 600px;
+    color: black;
+    background-color: white;
+    margin-left: 10%;
+    font-size: 30px;
+    text-align: center;
+
+}
+
+.Item .links-item{
+    color: blue;
+    font-size: 20px;
+}
+
+.Item b{
+    font-size: 25px;
+}
+
+.Item h3{
+    line-height: 0px;
+    padding-top: 100px;
+}
+
+.Item img{
+    width: 600px;
+    height: 400px;
+}

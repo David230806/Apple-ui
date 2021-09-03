@@ -1,0 +1,159 @@
+*{
+    text-decoration: none;
+}
+
+.iPhone12{
+    height: 700px;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+
+.text{
+    margin-top: 150px;
+    margin-left: 10%;
+    text-align: center;
+    font-size: 50px;
+    line-height: 30px;
+    width: 74%;
+}
+
+.text span{
+    font-size: 25px;
+}
+
+.text .sold{
+    font-size: 14px;
+    color: grey;
+    line-height: 0px;
+}
+
+.text .links{
+    text-align: center;
+    margin-left: 44.5%;
+    margin-top: 20px;
+}
+
+.text .links a{
+    margin-right: 20px;
+    font-size: 23px;
+}
+
+.img{
+    margin-left: 26.5%;
+}
+
+.img img{
+    width: 800px;
+    height: 600px;
+}
+
+.iPhone12pro{
+    background-color: black;
+    height: 700px;
+}
+
+.text-pro{
+    color: white;
+    margin-left: 10%;
+    text-align: center;
+    font-size: 45px;
+    line-height: 30px;
+    width: 74%;
+}
+
+
+
+.text-pro span{
+    font-size: 25px;
+}
+
+.text-pro .text-pro-top h2{
+    padding-top: 50px;
+    font-size: 50px;
+    line-height: 0px;
+}
+
+.text-pro .sold-pro{
+    font-size: 14px;
+    color: grey;
+    line-height: 0px;
+}
+
+.text-pro .links-pro{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.text-pro .links-pro a{
+    margin-right: 20px;
+    font-size: 23px;
+}
+
+.img-pro img{
+    width: 700px;
+    height: 400px;
+}
+
+.img-pro{
+    margin-left: 30%;
+}
+
+.apple-tv-screen{
+    margin-bottom: 100px;
+    margin-top: 20px;
+    width: 100vw;
+    height: 100vh;
+    background-image: url(../../imges/appletv.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.apple-tv-screen .appleimg{
+    width: 30px;
+    height: 30px;
+    fill: black;
+}   
+
+.apple-tv-screen .tv-text{
+    position: absolute;
+    bottom: 0px;
+    top: 2000px;
+    line-height: 20px;
+    text-align: center;
+    font-size: 50px;
+    margin-left: 38%;
+}
+
+.apple-tv-screen .tv-text h2{
+    font-size: 150px;
+}
+
+.apple-tv-screen .tv-text span{
+    font-size: 30px;
+
+}
+
+.apple-tv-screen .tv-text .season-span{
+    font-size: 100px;
+    
+}
+
+.info-screen{
+    width: 1200px;
+    margin: 0 auto;
+    color: gray;
+    font-size: 15px;
+}
+
+.hr{
+    width: 1200px;
+}
+
+.store-screen{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    width: 1220px;
+}
+
+
+

@@ -1,0 +1,150 @@
+[
+    {
+        "title": "iPadPro",
+        "discription": "Supercharged by the Apple M1 chip",
+            "learnmore":"Learn more >",
+            "buy": "Buy>",
+        "img": "https://bigmag.ua/image/cache/catalog/new/kumunren/Liza/iPad%20Pro%2011%202021/2765727345-650x540.jpg",
+        "_id": 0
+    },
+    {
+        
+        "title": "iMac",
+        "discription": "Say Hello",
+        "learnmore":"Learn more >",
+        "buy": "Buy>",
+        "img": "https://www.ixbt.com/img/r30/00/02/41/39/applenewimacspring21hero04202021.jpg",
+        "_id": 1
+    },
+    {
+        "title": "Watch",
+        "discription": "The future of health is on your wrist.",
+            "learnmore":"Learn more >",
+            "buy": "Buy>",
+        "img": "https://www.apple.com/mideast/watch/compare/r/images/og/en/og_no-cellular__bq4s0q4hhcuq.png?202104180540",
+        "_id": 2
+    },
+    {
+        "title": "Fitness+",
+        "discription": "The first fitness service powered by Apple Watch.Try it one month for free. ",
+            "learnmore":"Learn more >",
+            "buy": "Buy>",
+        "img": "https://www.apple.com/newsroom/images/product/services/standard/Apple_fitness-plus-iphone11-apple-watch-series-6_09152020.jpg.landing-big_2x.jpg",
+        "_id": 3
+    },
+    {
+        "title": "Buy iMac or iPad for",
+        "discription": "college.Get AirPods.",
+            "learnmore":"Save witheducation pricing >",
+        "img": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/bts-header-202106_FMT_WHH?wid=702&hei=406&fmt=png-alpha&.v=1621972840000",
+        "_id": 4
+    },
+    {
+        "title": "Card",
+        "discription": "Get up to 3% Daily Cash back with every purchase.",
+            "learnmore":"Learn more >",
+            "buy": "Apply now >",
+        "img": "https://www.ixbt.com/img/n1/news/2020/2/1/dims_1.jpg",
+        "_id": 5
+    },
+    {
+        "NoteBooks":[
+            {
+                "category": "Notebook",
+                "name": "MakBook Air",
+                "img": "",
+                "price": 999,
+                "display": 13.3,
+                "display-discription": "Retina display",
+                "processor": "Apple M1 chip",
+                "memory": "16GB",
+                "storage": "2TB",
+                "battery": 18,
+                "camera": "720p",
+                "camera-weight": "2.8 lb.",
+                "touch": "Touch ID"
+            },
+            {
+                "category": "Notebook",
+                "name": "MakBook Pro 13",
+                "img": "",
+                "price": 1299,
+                "display": 13.3,
+                "display-discription": "Retina display",
+                "processor": "Apple M1 chip",
+                "memory": "16GB",
+                "storage": "2TB",
+                "battery": 20,
+                "camera": "720p",
+                "camera-weight": "3.0 lb.",
+                "touch": "Touch Bar and Touch ID"
+            },
+            {
+                "category": "Notebook",
+                "name": "MakBook Pro 16",
+                "img": "",
+                "price": 2399,
+                "display": 16,
+                "display-discription": "Retina display",
+                "processor": "Intel Core i9",
+                "memory": "64GB",
+                "storage": "8TB",
+                "battery": 11,
+                "camera": "720p",
+                "camera-weight": "4.3 lb.",
+                "touch": "Touch Bar and Touch ID"
+            }
+        ],
+        "Desktop": [
+            {
+                "category": "Desktop",
+                "img": "",
+                "name": "iMac 24",
+                "price": 1299,
+                "display": "4.5K",
+                "processor": "Apple M1 chip",
+                "memory":"16GB",
+                "storage":"2TB",
+                "camera":"1080p",
+                "configurabel": "Configurable with Magic Keyboard with Touch ID and Numeric Keypad" 
+            },
+            {
+                "category": "Desktop",
+                "img": "",
+                "name": "iMac 27",
+                "price": 1799,
+                "display": "5K",
+                "processor":"Intel Core i9",
+                "memory":"128GB",
+                "storage":"8TB",
+                "camera":"1080p",
+                "configurabel": "Configurable with Magic Keyboard with Numeric Keypad" 
+            },
+            {
+                "category": "Desktop",
+                "img": "",
+                "name": "Mac Pro",
+                "price": 5999,
+                "display": "-",
+                "processor":"Intel Xeon W processor",
+                "memory":"1.5TB",
+                "storage":"8TB",
+                "camera":"-",
+                "configurabel": "Magic Keyboard with Numeric Keypad" 
+            },
+            {
+                "category": "Desktop",
+                "img": "",
+                "name": "Mac Mini",
+                "price": 699,
+                "display": "-",
+                "processor":"Apple M1 chip",
+                "memory":"16GB",
+                "storage":"2TB",
+                "camera":"-",
+                "configurabel": "-" 
+            }
+        ]
+    }
+
+]
